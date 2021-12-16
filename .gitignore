@@ -4,6 +4,11 @@
 /node_modules
 /.pnp
 .pnp.js
+axios
+chart.js
+react-chartjs-2
+react-countup
+@material-ui/core
 
 # testing
 /coverage
